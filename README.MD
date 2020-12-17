@@ -1,6 +1,8 @@
 
 # Hands-On Spring Data Cassandra
 
+https://www.youtube.com/watch?v=bU5Br6UeTvw&feature=emb_logo
+
 
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/DataStax-Academy/workshop-spring-data-cassandra) 
 [![License Apache2](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
